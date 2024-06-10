@@ -12,7 +12,7 @@ Os scripts AHK podem automatizar tarefas repetitivas, adicionar atalhos de tecla
 3. Execute os scripts AHK que desejar.
 
 ## Scripts Disponíveis
-- [MouseMacros.ahk](https://github.com/rockalves/AHK-Scripts/blob/main/MouseMacros.ahk): Este script oferece funcionalidades de macro do mouse, permitindo automatizar cliques e movimentos do mouse.
+- [MouseMacros.ahk](https://github.com/rockalves/AHK-Scripts/blob/main/MouseMacros.ahk): Este script oferece funcionalidades de macro, permitindo automatizar o controle de mídias através do mouse (Volume_Down,Volume_Up,Volume_Mute,Media_Play_Pause,Media_Next).
 
 ## Contribuindo
 Contribuições são bem-vindas! Se você tiver algum script AHK interessante para compartilhar, sinta-se à vontade para enviar um pull request.
