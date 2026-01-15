@@ -6,7 +6,7 @@
     Gui, Show,, Inserir Email
     Return
 
-global email := "andre.alves@zitrus.com.br"
+global email := "baba@baba.com"
 
 #IfWinActive Inserir Email
     Enter::
